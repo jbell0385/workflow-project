@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/jbell0385/workflow-project#readme",
   "dependencies": {
-    "bootstrap": "^4.1.0"
+    "bootstrap": "^4.1.0",
+    "jquery": "^3.3.1"
   }
 }

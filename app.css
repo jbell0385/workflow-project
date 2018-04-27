@@ -1,0 +1,99 @@
+body{
+    font-size: 16px;
+    font-family: 'Roboto', sans-serif;
+    color:#373d3f;
+}
+
+a{
+    color:#373d3f;
+}
+
+a:link{
+    color:#373d3f;
+}
+
+a:visited{
+    color:#373d3f;
+}
+
+a:hover{
+    color:#0786a0;
+}
+
+a:active{
+    color:#055e70;
+}
+
+
+li>a:hover{
+    text-decoration: underline!important;
+}
+
+.navbar{
+    padding-top:10px;
+    padding:bottom:5px;
+}
+
+ .nav-item{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    border-right:1px solid #e8e8e8;
+    min-width:150px;
+    height:30px;
+}
+/*
+.dropdown-menu{
+    display:flex;
+    flex-direction:column;
+    border:none;
+    box-shadow:none;
+    margin-left:1em;
+} */
+
+.fa-caret-down{
+    margin-left:5px;
+}
+
+.fa-angle-right{
+    margin-right:5px;
+}
+
+.concept-card{
+    width:110px;
+    height:130px;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+}
+
+.card-body{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+
+.custom-card-heading{
+    text-align: center;
+    width:110px;
+}
+
+.col{
+    margin-left:0px!important;
+    margin-right:0px!important;
+}
+
+.arrow-right{
+    margin-bottom:60px;
+    margin-left:5px;
+    margin-right:5px;
+}
+
+.card-hover-shadow{
+    border:1px solid #373d3f;
+    box-shadow: 3px 3px 5px;
+}
+
+.navbar{
+    font-size:14px;
+}
