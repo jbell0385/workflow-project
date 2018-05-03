@@ -68,9 +68,15 @@ li>a:hover{
 }
 
 .card-body{
-    display:flex;
+    /* display:flex;
     justify-content:center;
-    align-items:center;
+    align-items:center; */
+}
+
+.active-link{
+    color:#373d3f;
+    background-color:#b4dae2;
+    border-radius:5px;
 }
 
 .custom-card-heading{
@@ -114,7 +120,7 @@ li>a:hover{
     position:fixed;
     right:3%;
     top:13%;
-    width:180px;
+    width:150px;
     opacity:0.7;
 }
 
